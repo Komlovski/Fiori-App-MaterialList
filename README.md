@@ -18,20 +18,20 @@ Material anlegen/ändern:
 
 Mengeneinheit: SAP-basiert:
 
-ST - Stück
-STD -Stunden
-T  - Tage
-TTE - Tüte
-N - Newton
-MS - Millisekunde
-V- Volt
-M2- Quadratmeter
-M - Meter
-L - Liter
-KS - Kasten
-KM - Kilometer
-A   - Ampere
-% - Prozent
+ST - Stück,
+STD -Stunden,
+T  - Tage,
+TTE - Tüte,
+N - Newton,
+MS - Millisekunde,
+V- Volt,
+M2- Quadratmeter,
+M - Meter,
+L - Liter,
+KS - Kasten,
+KM - Kilometer,
+A   - Ampere,
+% - Prozent,
 ......................usw. Siehe SAP-Basismengeneinheiten
 
 
